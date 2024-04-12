@@ -7,7 +7,46 @@ Its the implementation of a research paper named "Futures Quantitative Trading S
 #Analysis:
 
 The given dataset has 935 rows x 20 columns.
-![Uploading image.png…]()
+<img width="438" alt="image" src="https://github.com/anuragprasad95/bitcoin_logistic_PCA/assets/3609255/89494b1c-8fd1-4abd-8a41-5a44592e5e40">
+
+
+
+<img width="435" alt="image" src="https://github.com/anuragprasad95/bitcoin_logistic_PCA/assets/3609255/d09032ba-1e51-4089-afe7-95857f45c774">
+
+
+<img width="540" alt="image" src="https://github.com/anuragprasad95/bitcoin_logistic_PCA/assets/3609255/7f37e0b3-8c59-4c6e-ae4c-4df4bdb6d0d6">
+
+
+<img width="1236" alt="image" src="https://github.com/anuragprasad95/bitcoin_logistic_PCA/assets/3609255/0afb719b-6733-4308-ad92-d73db42a8fa2">
+
+
+<img width="570" alt="image" src="https://github.com/anuragprasad95/bitcoin_logistic_PCA/assets/3609255/52a4b456-5fcf-402f-816f-956f8fdd46f7">
+
+
+<img width="328" alt="image" src="https://github.com/anuragprasad95/bitcoin_logistic_PCA/assets/3609255/7aafd228-ef02-4278-9aa7-99c1a0a02668">
+
+<img width="383" alt="image" src="https://github.com/anuragprasad95/bitcoin_logistic_PCA/assets/3609255/ca1bab02-a60d-4127-bfb2-9d13166f5989">
+
+
+<img width="539" alt="image" src="https://github.com/anuragprasad95/bitcoin_logistic_PCA/assets/3609255/764b53b7-4fec-491d-98cd-623f46d2d46e">
+
+
+<img width="1063" alt="image" src="https://github.com/anuragprasad95/bitcoin_logistic_PCA/assets/3609255/ef9e4192-3678-4e33-b463-01425ddab713">
+
+
+<img width="411" alt="image" src="https://github.com/anuragprasad95/bitcoin_logistic_PCA/assets/3609255/04b638b4-048a-4266-b2df-9deeb834cd22">
+
+
+<img width="811" alt="image" src="https://github.com/anuragprasad95/bitcoin_logistic_PCA/assets/3609255/8a894617-5a0c-4d02-a508-2c91e713b647">
+
+
+<img width="546" alt="image" src="https://github.com/anuragprasad95/bitcoin_logistic_PCA/assets/3609255/9cabf11f-565a-4400-a014-06f49f27caf1">
+
+
+<img width="704" alt="image" src="https://github.com/anuragprasad95/bitcoin_logistic_PCA/assets/3609255/663be280-b086-4efa-bd31-f1a0f72b872f">
+
+
+<img width="554" alt="image" src="https://github.com/anuragprasad95/bitcoin_logistic_PCA/assets/3609255/f33ed687-7222-4677-980c-72ae05936630">
 
 
 #Code:
@@ -113,3 +152,4 @@ The given dataset has 935 rows x 20 columns.
 
       
 #Findings:
+<img width="1107" alt="image" src="https://github.com/anuragprasad95/bitcoin_logistic_PCA/assets/3609255/de47b3e2-a84e-43f5-8b90-7336237d83c5">
