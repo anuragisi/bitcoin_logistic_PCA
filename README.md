@@ -50,7 +50,7 @@ The given dataset has 935 rows x 20 columns.
 <img width="554" alt="image" src="https://github.com/anuragprasad95/bitcoin_logistic_PCA/assets/3609255/f33ed687-7222-4677-980c-72ae05936630">
 <br>
 
-<h1>Code:</h1>h1>
+<h1>Code:</h1>
   1. **Important Libraries**<br>
       import pandas as pd<br>
       import numpy as np<br>
